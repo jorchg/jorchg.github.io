@@ -39,7 +39,7 @@ owner:
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
-  disqus-shortname:
+  disqus-shortname: jorchg
   twitter: #username
   facebook: #username
   google:
